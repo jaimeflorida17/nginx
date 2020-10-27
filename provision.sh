@@ -1,5 +1,5 @@
-sudo apt-get update
-sudo apt-get install nginx
+sudo apt-get -y update
+sudo apt-get install -y nginx
 service ngnix status 
 cp -avr /usr/share/nginx/www /vagrant/www
 sudo rm -rf  /usr/share/nginx/www
