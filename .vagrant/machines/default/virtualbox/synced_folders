@@ -1,1 +1,1 @@
-{"virtualbox":{"/vagrant":{"guestpath":"/vagrant","hostpath":"C:/tools/cygwin/home/jacagi/AEV1DW","disabled":false,"__vagrantfile":true}}}
+{"virtualbox":{"/vagrant/sites-enabled":{"guestpath":"/vagrant/sites-enabled","hostpath":"C:/tools/cygwin/home/jacagi/AEV1DW/sites-enabled","disabled":false,"__vagrantfile":true}}}
